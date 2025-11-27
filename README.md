@@ -33,11 +33,16 @@ Responsive Design
 CSS Hover & Animations
 
 
+Preview
 
-[screenshot](/assets/images/screenshot.png)
+![screenshot](/assets/images/screenshot.png)
+
+
+![gif](/assets/images/responsive.gif)
+
 
 
  🔗‍️ 🌐 Check out the project here;
 
 
-https://coffee-shop-projectt.netlify.app/
+ https://coffee-shop-projectt.netlify.app/
